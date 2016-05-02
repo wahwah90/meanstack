@@ -1,0 +1,19 @@
+{
+  "name": "myfirstnode",
+  "dependencies": {
+    "express": "~4.13.4",
+    "body-parser": "~1.15.0",
+    "mongoose": "~4.4.12",
+    "gulp": "~3.9.1",
+    "gulp-concat": "~2.6.0",
+    "gulp-uglify": "~1.5.3",
+    "gulp-ng-annotate": "~2.0.0",
+    "gulp-sourcemaps": "~2.0.0-alpha",
+    "gulp-stylus": "~2.3.1",
+    "gulp-nodemon": "~2.0.6",
+    "jwt-simple": "~0.5.0",
+    "lodash": "~4.11.1",
+    "bcrypt": "~0.8.6",
+    "ws": "~1.1.0"
+  }
+}
